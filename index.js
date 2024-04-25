@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["Playing floxinnet.online"];
 
 
 let currentIndex = 0;
