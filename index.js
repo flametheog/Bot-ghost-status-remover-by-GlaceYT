@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["👮 Moderating SiriusNetwork"];
 
 
 let currentIndex = 0;
