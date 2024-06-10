@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Managing Sirius Network"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
