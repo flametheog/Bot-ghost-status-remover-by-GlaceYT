@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing GreenMc.Fun"];
+const statusMessages = ["Playing play.siriusnet.in"];
 
 
 let currentIndex = 0;
